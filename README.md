@@ -1,7 +1,7 @@
 # inventory-tracker-executable
 Inventory Tracker built with Tkinter framework (executable) <br />
 
-Designed to track your inventory and expenses. <br />
+Designed to track your inventory and expenses, CRUD using SQLite. <br />
 
 Features: <br /> 
 Numerical representation of profits/expenses <br />
