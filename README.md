@@ -1,10 +1,10 @@
 # inventory-tracker-executable
-Inventory Tracker built with Tkinter framework (executable)
+Inventory Tracker built with Tkinter framework (executable) <br />
 
-Designed to track your inventory and expenses.
+Designed to track your inventory and expenses. <br />
 
-Features:
-Numerical representation of profits/expenses
-Ability to mark an item as sold/unsold as well as duplication
-USPS and UPS tracking capabilities 
+Features: <br /> 
+Numerical representation of profits/expenses <br />
+Ability to mark an item as sold/unsold as well as duplication <br />
+USPS and UPS tracking capabilities <br />
 Search bar
