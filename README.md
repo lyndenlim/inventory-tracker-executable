@@ -7,6 +7,6 @@ Features: <br />
 Numerical representation of profits/expenses <br />
 Ability to mark an item as sold/unsold as well as duplication <br />
 USPS and UPS tracking capabilities <br />
-Search bar <br />
 Columns can be readjusted and resorted <br />
-Allows for multi-action (exluding editing)
+Allows for multi-action (exluding editing) <br />
+Search bar  
